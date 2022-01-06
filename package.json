@@ -85,5 +85,8 @@
     "react",
     "ui",
     "material-ui"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
