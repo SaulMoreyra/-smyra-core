@@ -40,7 +40,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@smyra/core",
+  "name": "smyra-core",
   "author": "SaulMoreyra",
   "module": "dist/react-components-tsdx.esm.js",
   "size-limit": [
