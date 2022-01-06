@@ -87,6 +87,6 @@
     "material-ui"
   ],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/SaulMoreyra/-smyra-core.git"
   }
 }
